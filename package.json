@@ -16,7 +16,7 @@
   ],
   "main": "dist/js/bootstrap-switch.js",
   "peerDependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "5.3.3",
     "jquery": ">=1.12.4"
   },
   "repository": {
